@@ -1,0 +1,7 @@
+True and False are the values of boolean datatype.While writing these values with T and F in uppercase
+The three boolean operators are AND, OR, NOT.
+The list of boolean operator truth tables {True and true = true, False and True = False, False and true = False, False and False = False}, {True or True = True, True or False = True, False or True = True, False or False = False} and{not True - False, not False = True}
+False, False, True, False, False, True
+The six comparison operators are ==,>=,<=,!=,<,>
+equal to == is used to compare two values but assignment operator is used to give or assign a value to the variable. We use assignment operator in program to store a value.
+The three blocks are one if spam==10: print('eggs'), second is if spam>5: print('bacon') and third is else print('ham') print('spam') print('spam')
