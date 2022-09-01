@@ -5,3 +5,6 @@ False, False, True, False, False, True
 The six comparison operators are ==,>=,<=,!=,<,>
 equal to == is used to compare two values but assignment operator is used to give or assign a value to the variable. We use assignment operator in program to store a value.
 The three blocks are one if spam==10: print('eggs'), second is if spam>5: print('bacon') and third is else print('ham') print('spam') print('spam')
+if spam==1:  print(Hello)    elif spam==2:  print(Howdy)    else:   print(Greetings!)
+if the program is stuck in endless loop, we copy the program using ctrl+c and paste in a new cell using ctrl+v and rearrange the code.
+break statement immediately breaks the loop and goes to next line but continue will redirect to the loop until the code is false.
